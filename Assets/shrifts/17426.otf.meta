@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: be572d4bd8fd21d419a7540e06e41097
+timeCreated: 1563184380
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: RollsLamont
+  fontNames:
+  - RollsLamont
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

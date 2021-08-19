@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f348a433f8e56124d80c71a888b94d81
+timeCreated: 1562861188
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FrizQuaBolIta
+  fontNames:
+  - FrizQuaBolIta
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

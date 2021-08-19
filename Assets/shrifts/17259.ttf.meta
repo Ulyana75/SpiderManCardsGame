@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c80ece4e87723c145b9cabf70f650ace
+timeCreated: 1563185049
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AmazObitaemOstrovLeftalic
+  fontNames:
+  - AmazObitaemOstrovLeftalic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

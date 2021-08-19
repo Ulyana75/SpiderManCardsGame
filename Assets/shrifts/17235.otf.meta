@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 93606ea3abbd1a544acc1cbcd7eec4cb
+timeCreated: 1562861399
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bork Display
+  fontNames:
+  - Bork Display
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

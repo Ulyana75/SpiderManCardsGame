@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 60a5791a75bda9e4688090ed1ea138f5
+timeCreated: 1562861316
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: mr_StupidHeadBBG
+  fontNames:
+  - mr_StupidHeadBBG
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

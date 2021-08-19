@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 007a31ec476c2df47aee47fc5085ae80
+timeCreated: 1563186029
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ice aGE rUSS
+  fontNames:
+  - ice aGE rUSS
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
